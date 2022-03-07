@@ -1,0 +1,41 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.17.5",
+    "@emotion/react": "11.8.1",
+    "@emotion/styled": "11.8.1",
+    "@mui/icons-material": "5.4.4",
+    "@mui/material": "5.4.4",
+    "@mui/system": "^5.0.0",
+    "@sanity/cli": "2.27.3",
+    "@types/react": "17.0.39",
+    "fibers": "5.0.1",
+    "firebase": "9.6.8",
+    "firebase-tools": "10.2.2",
+    "firebaseui": "6.0.1",
+    "jquery": "3.6.0",
+    "next": "12.1.0",
+    "node-sass": "7.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-is": "17.0.2",
+    "react-material-ui-carousel": "^3.3.1",
+    "react-redux": "7.2.6",
+    "react-router-dom": "6.2.2",
+    "react-slick": "0.28.1",
+    "sass": "1.49.9",
+    "slick-carousel": "1.8.1",
+    "styled-components": "5.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
