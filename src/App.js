@@ -18,10 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
-  );
-}
-
+    
 export default App;
 import logo from './logo.svg';
 import './App.css';
@@ -47,4 +44,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
